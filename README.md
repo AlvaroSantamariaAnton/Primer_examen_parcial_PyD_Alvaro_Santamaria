@@ -1,4 +1,4 @@
-# Examen_parcial_PyD
+# Primer_examen_parcial_PyD_Alvaro_Santamaria
 
 Este repositorio contiene el desarrollo del supuesto práctico de un sistema de recepción y procesamiento de imágenes de forma concurrente, 
 usando Python. Se ilustra cómo manejar la llegada continua e impredecible de imágenes mediante un proceso que recibe los datos y otro que
@@ -19,15 +19,15 @@ los procesa, aprovechando las ventajas de `multiprocessing`.
 
 1. Clona el repositorio o descarga el proyecto:
    ```bash
-   git clone https://github.com/AlvaroSantamariaAnton/Examen_parcial_PyD.git
+   git clone https://github.com/AlvaroSantamariaAnton/Primer_examen_parcial_PyD_Alvaro_Santamaria.git
 
 2. Entra a la carpeta principal:
     ```bash
-    cd Examen_parcial_PyD
+    cd Primer_examen_parcial_PyD_Alvaro_Santamaria
 
-3. Dirígete a la carpeta **main/scripts**:
+3. Dirígete a la carpeta `master`:
     ```bash
-    cd main/scripts
+    cd Primer_examen_parcial_PyD_Alvaro_Santamaria-master
 
 4. Ejecuta el archivo principal:
     ```bash
@@ -35,5 +35,4 @@ los procesa, aprovechando las ventajas de `multiprocessing`.
 
 ## Link al repositorio
 
-https://github.com/AlvaroSantamariaAnton/Examen_parcial_PyD.git
-
+https://github.com/AlvaroSantamariaAnton/Primer_examen_parcial_PyD_Alvaro_Santamaria.git
